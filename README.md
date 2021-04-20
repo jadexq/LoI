@@ -2,6 +2,21 @@
 
 Bayesian Latent Factor on Image Regression with Nonignorable Missing Data
 
+## Reference
+```
+@article{wang2021bayesian,
+  title={Bayesian latent factor on image regression with nonignorable missing data},
+  author={Wang, Xiaoqing and Song, Xinyuan and Zhu, Hongtu},
+  journal={Statistics in Medicine},
+  volume={40},
+  number={4},
+  pages={920--932},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+```
+
+
 ## Getting Started
 
 - Prerequisites:
